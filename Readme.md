@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Барашков](https://up.htmlacademy.ru/htmlcss/35/user/341947).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Боровик](https://htmlacademy.ru/profile/mouxez).
 
 ---
 
